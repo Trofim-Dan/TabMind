@@ -1,1 +1,1 @@
-# TabMind
+# tabmind-privacy
